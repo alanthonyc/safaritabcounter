@@ -1,2 +1,2 @@
 # safaritabcounter
-Counts your Safari tabs
+Counts your Safari tabs (and tells you the count).
